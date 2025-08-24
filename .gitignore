@@ -1,0 +1,10 @@
+bin
+*.bak
+*.rar
+*.zip
+*.class
+target/
+javadocs/
+*.iml
+**/.$*
+**/.$*
