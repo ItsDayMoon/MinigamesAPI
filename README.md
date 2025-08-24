@@ -1,4 +1,4 @@
-#Correção de bugs 
+# Correção de bugs 
 autor original do pl: MysticCity
 Arenas com o description aparecendo nas placas ✔
 Players ganham as coins após o término das partidas ✔
